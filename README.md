@@ -4,9 +4,11 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/danrez_?label=people%20following%20me&style=social)
 ![GitHub followers](https://img.shields.io/github/followers/danmusembi?label=people%20following%20me&style=social)
 
-I am a Web developer with 4+ years of experience, ranging from hobbyist to professional.
-As a self-taught artist, this demonstrates my enthusiasm and devotion. 
-My agility has proved to be my most valuable attribute on the field and in my profession.
+
+
+𝐈 𝐚𝐦 𝐚 𝐖𝐞𝐛 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐰𝐢𝐭𝐡 𝟒+ 𝐲𝐞𝐚𝐫𝐬 𝐨𝐟 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞, 𝐫𝐚𝐧𝐠𝐢𝐧𝐠 𝐟𝐫𝐨𝐦 𝐡𝐨𝐛𝐛𝐲𝐢𝐬𝐭 𝐭𝐨 𝐩𝐫𝐨𝐟𝐞𝐬𝐬𝐢𝐨𝐧𝐚𝐥. 
+𝐀𝐬 𝐚 𝐬𝐞𝐥𝐟-𝐭𝐚𝐮𝐠𝐡𝐭 𝐚𝐫𝐭𝐢𝐬𝐭, 𝐭𝐡𝐢𝐬 𝐝𝐞𝐦𝐨𝐧𝐬𝐭𝐫𝐚𝐭𝐞𝐬 𝐦𝐲 𝐞𝐧𝐭𝐡𝐮𝐬𝐢𝐚𝐬𝐦 𝐚𝐧𝐝 𝐝𝐞𝐯𝐨𝐭𝐢𝐨𝐧. 
+𝐌𝐲 𝐚𝐠𝐢𝐥𝐢𝐭𝐲 𝐡𝐚𝐬 𝐩𝐫𝐨𝐯𝐞𝐝 𝐭𝐨 𝐛𝐞 𝐦𝐲 𝐦𝐨𝐬𝐭 𝐯𝐚𝐥𝐮𝐚𝐛𝐥𝐞 𝐚𝐭𝐭𝐫𝐢𝐛𝐮𝐭𝐞 𝐨𝐧 𝐭𝐡𝐞 𝐟𝐢𝐞𝐥𝐝 𝐚𝐧𝐝 𝐢𝐧 𝐦𝐲 𝐩𝐫𝐨𝐟𝐞𝐬𝐬𝐢𝐨𝐧.
 
 
 🧰
