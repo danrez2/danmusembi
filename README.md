@@ -11,7 +11,7 @@ My agility has proved to be my most valuable attribute on the field and in my pr
 
 🧰
 
-< <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg"  alt="javaScript logo" width="50" height="50"/>img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javaScript logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javaScript logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg"  alt="javaScript logo" width="50" height="50"/>
 
 <!--
 **danmusembi/danmusembi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
