@@ -2,8 +2,7 @@
 
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/danrez_?label=people%20following%20me&style=social)
-https://img.shields.io/github/followers/danmusembi?style=for-the-badge
-
+![GitHub followers](https://img.shields.io/github/followers/danmusembi?style=for-the-badge)
 
 I am a Web developer with 4+ years of experience, ranging from hobbyist to professional. As a self-taught artist, this demonstrates my enthusiasm and devotion. My agility has proved to be my most valuable attribute on the field and in my profession.
 <!--
