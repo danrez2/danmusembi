@@ -26,7 +26,7 @@
 <!-- BLOG-ARTICLES-LIST:END -->
 
 
-▶ [... more blog aeticles] (https://dev.to/danmusembi)
+▶ [...blog aeticles] (https://dev.to/danmusembi)
 
 
 <!--
