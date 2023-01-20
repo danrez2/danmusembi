@@ -14,7 +14,14 @@
 🧰
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javaScript logo" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg"  alt="css logo" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html logo" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react logo" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="node logo" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java logo" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs logo" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original-wordmark.svg"  alt="nextjs logo" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb logo" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg"  alt="vscode logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg"  alt="express logo" width="100" height="1000"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb logo" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg"  alt="vscode logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg"  alt="express logo" width="50" height="50"/>
+
+
+...
+
+📘 latest blog articles
+▶ [... more blog aeticles] (https://dev.to/danmusembi)
+
 
 <!--
 **danmusembi/danmusembi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
