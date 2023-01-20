@@ -19,7 +19,7 @@
 
 ...
 
-📘 latest blog articles
+📘
 
 <!-- BLOG-ARTICLES-LIST:START -->
 
