@@ -21,6 +21,10 @@
 
 📘 latest blog articles
 
+<!-- BLOG-ARTICLES-LIST:START -->
+
+<!-- BLOG-ARTICLES-LIST:END -->
+
 
 ▶ [... more blog aeticles] (https://dev.to/danmusembi)
 
