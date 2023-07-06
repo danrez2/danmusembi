@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Dan Musembi!
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Daniel!
 
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/danrez_?label=people%20following%20me&style=social)
